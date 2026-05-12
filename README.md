@@ -9,4 +9,4 @@ Instead of a hosted forwarder page, a bookmarklet can be used with a prompt for 
 
 An IPv4 address take 5 characters in Base64. An IPv6 address takes 20 characters in Base64.
 
-JS' "location.host" could be used to get the IP address, along with a third party that retreives the IP address from the host.
+JS' "location.host" could be used to get the IP address, along with a third party that retreives the IP address from the host. The third party should buffer the domain lookup (?)
