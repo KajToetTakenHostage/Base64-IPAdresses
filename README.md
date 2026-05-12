@@ -1,2 +1,2 @@
 # Base64-IPAdresses
-Addresses converted to Base64 that are opened with a bookmarklet.
+IP Addresses (4 or 6) converted to Base64 that are opened with a bookmarklet.
